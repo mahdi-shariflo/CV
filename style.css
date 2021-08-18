@@ -1,0 +1,237 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+body {
+  background-color: #110f0f94;
+}
+
+.img-profile {
+  width: 100%;
+  height: 200px;
+}
+.style-header-left {
+  background-color: #0096f5;
+}
+.name-profile {
+  font-family: "Montserrat", sans-serif;
+  color: wheat;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.5rem 0 !important;
+}
+.container-icon {
+  width: 1.8rem;
+  height: 1.8rem;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-address {
+  width: 1.2rem;
+}
+.img-gamil{
+  width: 1rem;
+}
+.text-address {
+  font-size: 0.75rem;
+  color: #fff;
+  padding: 0 0.45rem !important;
+  text-align: center !important;
+}
+.text-gmail{
+  font-size: 0.80rem;
+  color: #fff;
+  padding: 0 0.45rem !important;
+  text-align: center !important;
+}
+.border-custom {
+  width: 90%;
+  height: 0.09rem;
+  background-color: #fff;
+}
+.skilss {
+  font-size: 0.92rem;
+  color: #fff;
+}
+.custom-style-border-work{
+  margin-top: 2.7rem !important;
+}
+.custom-style-border-edu{
+  margin-top: 4rem !important;
+}
+.skill-text {
+  font-size: 0.75rem;
+  color: #fff;
+  float: left !important;
+}
+.html-progress {
+  font-size: 0.75rem;
+  color: #fff;
+}
+.progress-custom {
+  width: 53.5%;
+  height: 0.25rem;
+  background-color: #00000045;
+}
+
+.progress-html-skills {
+  width: 90%;
+  height: 100%;
+  background-color: #fff;
+}
+.progress-css-skills {
+  width: 85%;
+  height: 100%;
+  background-color: #fff;
+}
+.progress-bootstrap-skills {
+  width: 75%;
+  height: 100%;
+  background-color: #fff;
+}
+.progress-js-skills {
+  width: 70%;
+  height: 100%;
+  background-color: #fff;
+}
+.progress-react-skills {
+  width: 65%;
+  height: 100%;
+  background-color: #fff;
+}
+.progress-vue-skills {
+  width: 50%;
+  height: 100%;
+  background-color: #fff;
+}
+
+.text-about-us {
+  color: #0096f5;
+  font-size: 1.5rem !important;
+  text-transform: uppercase;
+}
+
+.border-under-text {
+  width: 95%;
+  height: 0.08rem;
+  background-color: #0096f5;
+}
+
+.work-experience {
+  color: #0096f5;
+   font-weight: bold;
+  font-size: 1.2rem !important;
+  text-transform: uppercase;
+}
+
+.style-explain-one {
+  width: 3px;
+  height: 5.5rem;
+  background-color: #0096f5;
+  position: relative;
+  margin-top: 2rem !important;
+}
+.style-explain {
+  width: 15px !important;
+  height: 15px !important;
+  background-color: #0096f5;
+  position: absolute;
+  top: -0.75rem;
+  left: -0.4rem;
+  border-radius: 50%;
+}
+
+.cirle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 5px;
+  height: 5px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+.start-text {
+  position: absolute;
+  top: -0.13rem;
+  left: 1.5rem;
+  color: #160d0df3;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+.title{
+  padding: 0.50rem 1rem !important;
+  position: absolute;
+  top: 0;
+}
+
+.explain{
+    padding: 0.50rem 1rem !important;
+     position: absolute;
+     top: 1.5rem;
+}
+
+.end-explain{
+    width: 15px !important;
+  height: 15px !important;
+  background-color: #0096f5;
+  position: absolute;
+  bottom: -0.75rem;
+  left: -0.4rem;
+  border-radius: 50%; 
+}
+
+.style-explain-two{
+    width: 3px;
+  height: 5.5rem;
+  background-color: #0096f5;
+  position: relative;
+  margin-top: 0.75rem !important;
+}
+
+.border-under-work{
+    width: 95%;
+    height: 0.15rem;
+    background-color: #0096f5;
+}
+
+.item{
+  width: 1rem;
+  height: 1rem;
+  background-color: #0096f5;
+  border-radius: 50%;
+
+}
+
+.container-hobby{
+  width: 3rem;
+  height: 3rem;
+  background-color: #fff;
+  border-radius: 50%;
+  border: 2px solid #0096f5;
+}
+.border-hobby{
+  width: 5rem;
+  height: 0.30rem;
+  background-color: #0096f5;
+}
+
+.img-game{
+  width: 2rem;
+  height: 2rem;
+}
+
+.img-music{
+  width: 1.7rem;
+  height: 1.7rem;
+}
